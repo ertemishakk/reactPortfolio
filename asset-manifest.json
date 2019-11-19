@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/reactPortfolio/static/js/main.63f68653.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.63f68653.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.d8a01f07.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.d8a01f07.js.map",
+    "static/js/2.77f1c7a9.chunk.js": "/reactPortfolio/static/js/2.77f1c7a9.chunk.js",
+    "static/js/2.77f1c7a9.chunk.js.map": "/reactPortfolio/static/js/2.77f1c7a9.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.312853342562509a19fd518ac0131dcd.js": "/reactPortfolio/precache-manifest.312853342562509a19fd518ac0131dcd.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/media/me.png": "/reactPortfolio/static/media/me.30d6fc49.png",
+    "static/media/pg.png": "/reactPortfolio/static/media/pg.87f90f7b.png",
+    "static/media/pg1.png": "/reactPortfolio/static/media/pg1.e0356240.png",
+    "static/media/pg2.png": "/reactPortfolio/static/media/pg2.106ed607.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8a01f07.js",
+    "static/js/2.77f1c7a9.chunk.js",
+    "static/js/main.63f68653.chunk.js"
+  ]
+}
